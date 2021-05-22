@@ -1,0 +1,13 @@
+# Target labels
+ ardupilot
+# Source files and their labels
+/home/doutorado/HetMUAVNet/src/ardupilot/CMakeFiles/ardupilot
+/home/doutorado/HetMUAVNet/src/ardupilot/CMakeFiles/ardupilot.rule
+/home/doutorado/HetMUAVNet/src/ardupilot/CMakeFiles/ardupilot-complete.rule
+/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-install.rule
+/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-mkdir.rule
+/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-download.rule
+/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-update.rule
+/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-patch.rule
+/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-configure.rule
+/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-build.rule

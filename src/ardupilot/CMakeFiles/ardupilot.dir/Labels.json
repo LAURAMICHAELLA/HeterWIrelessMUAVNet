@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/doutorado/HetMUAVNet/src/ardupilot/CMakeFiles/ardupilot"
+		},
+		{
+			"file" : "/home/doutorado/HetMUAVNet/src/ardupilot/CMakeFiles/ardupilot.rule"
+		},
+		{
+			"file" : "/home/doutorado/HetMUAVNet/src/ardupilot/CMakeFiles/ardupilot-complete.rule"
+		},
+		{
+			"file" : "/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-install.rule"
+		},
+		{
+			"file" : "/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-mkdir.rule"
+		},
+		{
+			"file" : "/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-download.rule"
+		},
+		{
+			"file" : "/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-update.rule"
+		},
+		{
+			"file" : "/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-patch.rule"
+		},
+		{
+			"file" : "/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-configure.rule"
+		},
+		{
+			"file" : "/home/doutorado/HetMUAVNet/src/ardupilot/ardupilot-prefix/src/ardupilot-stamp/ardupilot-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ardupilot"
+		],
+		"name" : "ardupilot"
+	}
+}

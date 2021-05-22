@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibs.a  CMakeFiles/libs.dir/IO/Poll.cpp.o CMakeFiles/libs.dir/MAVLink/MAVLink.cpp.o
+/usr/bin/ranlib liblibs.a

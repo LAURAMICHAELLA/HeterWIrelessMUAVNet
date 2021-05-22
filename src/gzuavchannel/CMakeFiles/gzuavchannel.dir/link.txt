@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/gzuavchannel.dir/main.cpp.o CMakeFiles/gzuavchannel.dir/CommandLineParser.cpp.o CMakeFiles/gzuavchannel.dir/ExternalSyncServer.cpp.o CMakeFiles/gzuavchannel.dir/TCPTransport.cpp.o CMakeFiles/gzuavchannel.dir/Transport.cpp.o CMakeFiles/gzuavchannel.dir/UDSTransport.cpp.o  -o gzuavchannel ../libs/liblibs.a 

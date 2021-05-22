@@ -1,0 +1,2064 @@
+[launch.sh] Launching gzuavserver...
+[launch.sh] Waiting for gzuavserver to start...
+[launch.sh] Gzuavserver is ready. Launching ns-3...
+[launch.sh] Launching gzuavclient...
+[launch.sh] Launching gzuavcluster (with one MAVLink controller for each UAV)...
+Creating model gzuav at speed 100.0
+Home: -27.603616 -48.518346 alt=585.000000m hdg=353.000000
+Starting SITL GzUav
+Starting sketch 'ArduCopter'
+Starting SITL input
+Using Irlock at port : 9005
+Waiting for connection ....
+Creating model gzuav at speed 100.0
+Home: -27.603616 -48.518346 alt=585.000000m hdg=353.000000
+Starting SITL GzUav
+Starting sketch 'ArduCopter'
+Starting SITL input
+Using Irlock at port : 9015
+Waiting for connection ....
+Creating model gzuav at speed 100.0
+Home: -27.603616 -48.518346 alt=585.000000m hdg=353.000000
+Starting SITL GzUav
+Starting sketch 'ArduCopter'
+Starting SITL input
+Using Irlock at port : 9025
+Waiting for connection ....
+Waiting for ns3 to be ready to accept our connection...
+Connected to ns3
+Registering ns3 node #1...
+setup:307: bad header in setup - erasing
+Loaded defaults from /usr/share/gzuav/ardupilot/copter.parm,/usr/share/gzuav/ardupilot/gazebo-iris.parm,mav_id.parm
+Waiting for ns3 to be ready to accept our connection...
+Connected to ns3
+Registering ns3 node #2...
+setup:307: bad header in setup - erasing
+Loaded defaults from /usr/share/gzuav/ardupilot/copter.parm,/usr/share/gzuav/ardupilot/gazebo-iris.parm,mav_id.parm
+Waiting for ns3 to be ready to accept our connection...
+Connected to ns3
+Registering ns3 node #0...
+setup:307: bad header in setup - erasing
+Loaded defaults from /usr/share/gzuav/ardupilot/copter.parm,/usr/share/gzuav/ardupilot/gazebo-iris.parm,mav_id.parm
+Loaded defaults from /usr/share/gzuav/ardupilot/copter.parm,/usr/share/gzuav/ardupilot/gazebo-iris.parm,mav_id.parm
+Loaded defaults from /usr/share/gzuav/ardupilot/copter.parm,/usr/share/gzuav/ardupilot/gazebo-iris.parm,mav_id.parm
+Loaded defaults from /usr/share/gzuav/ardupilot/copter.parm,/usr/share/gzuav/ardupilot/gazebo-iris.parm,mav_id.parm
+ Waiting for vehicle to initialise... Waiting for vehicle to initialise...
+
+ Waiting for vehicle to initialise...
+Arming motorsArming motors
+
+ Waiting for arming... Waiting for arming...
+
+Arming motors
+ Waiting for arming...
+Unable to fetch Log File Size: No such file or directory
+Unable to fetch Log File Size: No such file or directory
+Unable to fetch Log File Size: No such file or directory
+Taking off!Taking off!
+
+Taking off!
+Ground Control Station sended seqnum=2 messages
+The misson vehicle 3 received a message of base: seqnum=1 distance=1.98364352362 meters
+The misson vehicle 2 received a message of base: seqnum=1 distance=1.92147905058 meters
+Ground Control Station sended seqnum=3 messages
+The misson vehicle 3 received a message of base: seqnum=2 distance=1.98364352362 meters
+The misson vehicle 2 received a message of base: seqnum=2 distance=1.92147905058 meters
+Ground Control Station sended seqnum=4 messages
+The misson vehicle 2 received a message of base: seqnum=3 distance=1.92360611416 meters
+The misson vehicle 3 received a message of base: seqnum=3 distance=1.97917180258 meters
+Ground Control Station sended seqnum=5 messages
+The misson vehicle 3 received a message of base: seqnum=4 distance=1.98498619698 meters
+The misson vehicle 2 received a message of base: seqnum=4 distance=1.91925278136 meters
+Ground Control Station sended seqnum=6 messages
+The misson vehicle 3 received a message of base: seqnum=5 distance=2.00307059899 meters
+The misson vehicle 2 received a message of base: seqnum=5 distance=1.92064046862 meters
+Ground Control Station sended seqnum=7 messages
+The misson vehicle 3 received a message of base: seqnum=6 distance=2.05229808905 meters
+The misson vehicle 2 received a message of base: seqnum=6 distance=1.93032635177 meters
+Ground Control Station sended seqnum=8 messages
+The misson vehicle 3 received a message of base: seqnum=7 distance=2.09529204915 meters
+The misson vehicle 2 received a message of base: seqnum=7 distance=1.93170608477 meters
+Ground Control Station sended seqnum=9 messages
+The misson vehicle 3 received a message of base: seqnum=8 distance=2.16787402511 meters
+The misson vehicle 2 received a message of base: seqnum=8 distance=1.95570969043 meters
+Ground Control Station sended seqnum=10 messages
+The misson vehicle 3 received a message of base: seqnum=9 distance=2.26865208204 metersThe misson vehicle 2 received a message of base: seqnum=9 distance=1.99858034033 meters
+
+Ground Control Station sended seqnum=11 messages
+The misson vehicle 3 received a message of base: seqnum=10 distance=2.38662881211 meters
+The misson vehicle 2 received a message of base: seqnum=10 distance=2.07714550739 meters
+Ground Control Station sended seqnum=12 messages
+The misson vehicle 3 received a message of base: seqnum=11 distance=2.52705072721 meters
+The misson vehicle 2 received a message of base: seqnum=11 distance=2.1748366245 meters
+Ground Control Station sended seqnum=13 messages
+The misson vehicle 3 received a message of base: seqnum=12 distance=2.71247499769 meters
+The misson vehicle 2 received a message of base: seqnum=12 distance=2.31761210491 meters
+Ground Control Station sended seqnum=14 messages
+The misson vehicle 3 received a message of base: seqnum=13 distance=2.91089317812 meters
+The misson vehicle 2 received a message of base: seqnum=13 distance=2.49844708051 meters
+Ground Control Station sended seqnum=15 messages
+The misson vehicle 3 received a message of base: seqnum=14 distance=3.13502275781 meters
+The misson vehicle 2 received a message of base: seqnum=14 distance=2.73775820704 meters
+Ground Control Station sended seqnum=16 messages
+The misson vehicle 3 received a message of base: seqnum=15 distance=3.39677732873 meters
+The misson vehicle 2 received a message of base: seqnum=15 distance=3.00628609872 meters
+Ground Control Station sended seqnum=17 messages
+The misson vehicle 2 received a message of base: seqnum=16 distance=3.3122368509 meters
+The misson vehicle 3 received a message of base: seqnum=16 distance=3.69300658612 meters
+Ground Control Station sended seqnum=18 messages
+The misson vehicle 3 received a message of base: seqnum=17 distance=4.01553369361 meters
+The misson vehicle 2 received a message of base: seqnum=17 distance=3.66910490465 meters
+Ground Control Station sended seqnum=19 messages
+The misson vehicle 3 received a message of base: seqnum=18 distance=4.55502200665 meters
+The misson vehicle 2 received a message of base: seqnum=18 distance=4.26921530373 meters
+Ground Control Station sended seqnum=20 messages
+The misson vehicle 3 received a message of base: seqnum=19 distance=4.95371774987 meters
+The misson vehicle 2 received a message of base: seqnum=19 distance=4.71502149247 meters
+Ground Control Station sended seqnum=21 messages
+The misson vehicle 3 received a message of base: seqnum=20 distance=5.38328487493 meters
+The misson vehicle 2 received a message of base: seqnum=20 distance=5.19863256825 meters
+Ground Control Station sended seqnum=22 messages
+The misson vehicle 3 received a message of base: seqnum=21 distance=5.83782426221 meters
+The misson vehicle 2 received a message of base: seqnum=21 distance=5.72161654981 meters
+Ground Control Station sended seqnum=23 messages
+The misson vehicle 3 received a message of base: seqnum=22 distance=6.31153096405 meters
+The misson vehicle 2 received a message of base: seqnum=22 distance=6.26660565968 meters
+Ground Control Station sended seqnum=24 messages
+The misson vehicle 3 received a message of base: seqnum=23 distance=6.82514733867 meters
+The misson vehicle 2 received a message of base: seqnum=23 distance=6.84719901163 meters
+Ground Control Station sended seqnum=25 messages
+The misson vehicle 3 received a message of base: seqnum=24 distance=7.34814108663 meters
+The misson vehicle 2 received a message of base: seqnum=24 distance=7.44808153081 meters
+Ground Control Station sended seqnum=26 messages
+The misson vehicle 3 received a message of base: seqnum=25 distance=7.90786963234 meters
+The misson vehicle 2 received a message of base: seqnum=25 distance=8.07613574306 meters
+Ground Control Station sended seqnum=27 messages
+The misson vehicle 3 received a message of base: seqnum=26 distance=8.49164234134 meters
+The misson vehicle 2 received a message of base: seqnum=26 distance=8.73875800831 meters
+Ground Control Station sended seqnum=28 messages
+The misson vehicle 3 received a message of base: seqnum=27 distance=9.09297034951 metersThe misson vehicle 2 received a message of base: seqnum=27 distance=9.4119501666 meters
+
+Ground Control Station sended seqnum=29 messages
+The misson vehicle 3 received a message of base: seqnum=28 distance=9.71157851202 meters
+The misson vehicle 2 received a message of base: seqnum=28 distance=10.1112734161 meters
+Ground Control Station sended seqnum=30 messages
+The misson vehicle 3 received a message of base: seqnum=29 distance=10.3452655809 meters
+The misson vehicle 2 received a message of base: seqnum=29 distance=10.8439421305 meters
+Ground Control Station sended seqnum=31 messages
+The misson vehicle 3 received a message of base: seqnum=30 distance=11.3473236237 meters
+The misson vehicle 2 received a message of base: seqnum=30 distance=11.9547917841 meters
+Ground Control Station sended seqnum=32 messages
+The misson vehicle 3 received a message of base: seqnum=31 distance=12.0399848859 meters
+The misson vehicle 2 received a message of base: seqnum=31 distance=12.7250800191 meters
+Ground Control Station sended seqnum=33 messages
+The misson vehicle 3 received a message of base: seqnum=32 distance=12.7493101207 meters
+The misson vehicle 2 received a message of base: seqnum=32 distance=13.50386292 meters
+Ground Control Station sended seqnum=34 messages
+The misson vehicle 3 received a message of base: seqnum=33 distance=13.4751783446 meters
+The misson vehicle 2 received a message of base: seqnum=33 distance=14.301068469 meters
+Ground Control Station sended seqnum=35 messages
+The misson vehicle 3 received a message of base: seqnum=34 distance=14.2259352475 meters
+The misson vehicle 2 received a message of base: seqnum=34 distance=15.1288279006 meters
+Ground Control Station sended seqnum=36 messages
+The misson vehicle 3 received a message of base: seqnum=35 distance=14.9918562809 meters
+The misson vehicle 2 received a message of base: seqnum=35 distance=15.9728936608 meters
+Ground Control Station sended seqnum=37 messages
+The misson vehicle 3 received a message of base: seqnum=36 distance=15.7668068513 meters
+The misson vehicle 2 received a message of base: seqnum=36 distance=16.8399362389 meters
+Ground Control Station sended seqnum=38 messages
+The misson vehicle 3 received a message of base: seqnum=37 distance=16.5570683258 meters
+The misson vehicle 2 received a message of base: seqnum=37 distance=17.7453374096 meters
+Ground Control Station sended seqnum=39 messages
+The misson vehicle 3 received a message of base: seqnum=38 distance=17.3553990891 meters
+The misson vehicle 2 received a message of base: seqnum=38 distance=18.6686817456 meters
+Ground Control Station sended seqnum=40 messages
+The misson vehicle 3 received a message of base: seqnum=39 distance=18.185804417 meters
+The misson vehicle 2 received a message of base: seqnum=39 distance=19.6100887449 meters
+Ground Control Station sended seqnum=41 messages
+The misson vehicle 3 received a message of base: seqnum=40 distance=19.0318779096 metersThe misson vehicle 2 received a message of base: seqnum=40 distance=20.5919201063 meters
+
+Ground Control Station sended seqnum=42 messages
+The misson vehicle 3 received a message of base: seqnum=41 distance=19.8954139431 meters
+The misson vehicle 2 received a message of base: seqnum=41 distance=21.5674399506 meters
+Ground Control Station sended seqnum=43 messages
+The misson vehicle 3 received a message of base: seqnum=42 distance=21.223689623 meters
+The misson vehicle 2 received a message of base: seqnum=42 distance=23.0562276115 meters
+Ground Control Station sended seqnum=44 messages
+The misson vehicle 3 received a message of base: seqnum=43 distance=22.1197224732 meters
+The misson vehicle 2 received a message of base: seqnum=43 distance=24.0817425722 meters
+Ground Control Station sended seqnum=45 messages
+The misson vehicle 3 received a message of base: seqnum=44 distance=23.0235693022 meters
+The misson vehicle 2 received a message of base: seqnum=44 distance=25.1165829118 meters
+Ground Control Station sended seqnum=46 messages
+The misson vehicle 3 received a message of base: seqnum=45 distance=23.9433235823 meters
+The misson vehicle 2 received a message of base: seqnum=45 distance=26.1581876312 meters
+Ground Control Station sended seqnum=47 messages
+The misson vehicle 3 received a message of base: seqnum=46 distance=24.8786555629 meters
+The misson vehicle 2 received a message of base: seqnum=46 distance=27.2155233149 meters
+Ground Control Station sended seqnum=48 messages
+The misson vehicle 3 received a message of base: seqnum=47 distance=25.8219443825 meters
+The misson vehicle 2 received a message of base: seqnum=47 distance=28.2821227579 meters
+Ground Control Station sended seqnum=49 messages
+The misson vehicle 2 received a message of base: seqnum=48 distance=29.3644151042 meters
+The misson vehicle 3 received a message of base: seqnum=48 distance=26.7732376964 meters
+Ground Control Station sended seqnum=50 messages
+The misson vehicle 3 received a message of base: seqnum=49 distance=27.7483253033 meters
+The misson vehicle 2 received a message of base: seqnum=49 distance=30.455981734 meters
+Ground Control Station sended seqnum=51 messages
+The misson vehicle 3 received a message of base: seqnum=50 distance=28.7316211761 meters
+The misson vehicle 2 received a message of base: seqnum=50 distance=31.5540733841 meters
+Ground Control Station sended seqnum=52 messages
+The misson vehicle 3 received a message of base: seqnum=51 distance=29.7151282354 meters
+The misson vehicle 2 received a message of base: seqnum=51 distance=32.6550815271 meters
+Ground Control Station sended seqnum=53 messages
+The misson vehicle 3 received a message of base: seqnum=52 distance=30.7145691059 meters
+The misson vehicle 2 received a message of base: seqnum=52 distance=33.7625730566 meters
+Ground Control Station sended seqnum=54 messages
+The misson vehicle 3 received a message of base: seqnum=53 distance=31.7299261047 meters
+The misson vehicle 2 received a message of base: seqnum=53 distance=34.8793483216 meters
+Ground Control Station sended seqnum=55 messages
+The misson vehicle 3 received a message of base: seqnum=54 distance=33.2728920404 meters
+The misson vehicle 2 received a message of base: seqnum=54 distance=36.5610201394 meters
+Ground Control Station sended seqnum=56 messages
+The misson vehicle 3 received a message of base: seqnum=55 distance=34.3200780715 meters
+The misson vehicle 2 received a message of base: seqnum=55 distance=37.6872656362 meters
+Ground Control Station sended seqnum=57 messages
+The misson vehicle 3 received a message of base: seqnum=56 distance=35.3672843408 meters
+The misson vehicle 2 received a message of base: seqnum=56 distance=38.8353452282 meters
+Ground Control Station sended seqnum=58 messages
+The misson vehicle 3 received a message of base: seqnum=57 distance=36.4304250803 meters
+The misson vehicle 2 received a message of base: seqnum=57 distance=39.9680383142 meters
+Ground Control Station sended seqnum=59 messages
+The misson vehicle 3 received a message of base: seqnum=58 distance=37.4936718217 meters
+The misson vehicle 2 received a message of base: seqnum=58 distance=41.110032116 meters
+Ground Control Station sended seqnum=60 messages
+The misson vehicle 3 received a message of base: seqnum=59 distance=38.5647975895 meters
+The misson vehicle 2 received a message of base: seqnum=59 distance=42.2675611882 meters
+Ground Control Station sended seqnum=61 messages
+The misson vehicle 3 received a message of base: seqnum=60 distance=39.6359907215 meters
+The misson vehicle 2 received a message of base: seqnum=60 distance=43.4251605164 meters
+Ground Control Station sended seqnum=62 messages
+The misson vehicle 3 received a message of base: seqnum=61 distance=40.7232064679 metersThe misson vehicle 2 received a message of base: seqnum=61 distance=44.5890184302 meters
+
+Ground Control Station sended seqnum=63 messages
+The misson vehicle 3 received a message of base: seqnum=62 distance=41.8180291768 meters
+The misson vehicle 2 received a message of base: seqnum=62 distance=45.7621723917 meters
+Ground Control Station sended seqnum=64 messages
+The misson vehicle 3 received a message of base: seqnum=63 distance=42.9288825491 meters
+The misson vehicle 2 received a message of base: seqnum=63 distance=46.9384648221 meters
+Ground Control Station sended seqnum=65 messages
+The misson vehicle 3 received a message of base: seqnum=64 distance=44.039800713 metersThe misson vehicle 2 received a message of base: seqnum=64 distance=48.1209992402 meters
+
+Ground Control Station sended seqnum=66 messages
+The misson vehicle 3 received a message of base: seqnum=65 distance=45.1585028696 meters
+The misson vehicle 2 received a message of base: seqnum=65 distance=49.3035875164 meters
+Ground Control Station sended seqnum=67 messages
+The misson vehicle 3 received a message of base: seqnum=66 distance=46.2772446895 meters
+The misson vehicle 2 received a message of base: seqnum=66 distance=50.4862258655 meters
+Ground Control Station sended seqnum=68 messages
+The misson vehicle 3 received a message of base: seqnum=67 distance=47.9713286931 meters
+The misson vehicle 2 received a message of base: seqnum=67 distance=52.2834036236 meters
+Ground Control Station sended seqnum=69 messages
+The misson vehicle 3 received a message of base: seqnum=68 distance=49.1059033131 meters
+The misson vehicle 2 received a message of base: seqnum=68 distance=53.4815685858 meters
+Ground Control Station sended seqnum=70 messages
+The misson vehicle 3 received a message of base: seqnum=69 distance=50.2562470257 metersThe misson vehicle 2 received a message of base: seqnum=69 distance=54.6797678625 meters
+
+Ground Control Station sended seqnum=71 messages
+The misson vehicle 3 received a message of base: seqnum=70 distance=51.4066183117 meters
+The misson vehicle 2 received a message of base: seqnum=70 distance=55.8934145301 meters
+Ground Control Station sended seqnum=72 messages
+The misson vehicle 3 received a message of base: seqnum=71 distance=52.5570153612 meters
+The misson vehicle 2 received a message of base: seqnum=71 distance=57.1009835132 meters
+Ground Control Station sended seqnum=73 messages
+The misson vehicle 3 received a message of base: seqnum=72 distance=53.7154988471 meters
+The misson vehicle 2 received a message of base: seqnum=72 distance=58.3240001231 meters
+Ground Control Station sended seqnum=74 messages
+The misson vehicle 3 received a message of base: seqnum=73 distance=54.8897535952 meters
+The misson vehicle 2 received a message of base: seqnum=73 distance=59.5470470846 meters
+Ground Control Station sended seqnum=75 messages
+The misson vehicle 3 received a message of base: seqnum=74 distance=56.0636301441 meters
+The misson vehicle 2 received a message of base: seqnum=74 distance=60.7762061095 meters
+Ground Control Station sended seqnum=76 messages
+The misson vehicle 3 received a message of base: seqnum=75 distance=57.2379333354 meters
+The misson vehicle 2 received a message of base: seqnum=75 distance=61.9993023339 meters
+Ground Control Station sended seqnum=77 messages
+The misson vehicle 2 received a message of base: seqnum=76 distance=63.2317542852 meters
+The misson vehicle 3 received a message of base: seqnum=76 distance=58.4280011807 meters
+Ground Control Station sended seqnum=78 messages
+The misson vehicle 3 received a message of base: seqnum=77 distance=59.6180943673 meters
+The misson vehicle 2 received a message of base: seqnum=77 distance=64.4301696854 meters
+Ground Control Station sended seqnum=79 messages
+The misson vehicle 2 received a message of base: seqnum=78 distance=65.5142647009 meters
+The misson vehicle 3 received a message of base: seqnum=78 distance=60.800567829 meters
+Ground Control Station sended seqnum=80 messages
+The misson vehicle 3 received a message of base: seqnum=79 distance=62.4789953775 meters
+The misson vehicle 2 received a message of base: seqnum=79 distance=66.6577048206 meters
+Ground Control Station sended seqnum=81 messages
+The misson vehicle 3 received a message of base: seqnum=80 distance=63.3692440575 meters
+The misson vehicle 2 received a message of base: seqnum=80 distance=66.9919650382 meters
+Ground Control Station sended seqnum=82 messages
+The misson vehicle 3 received a message of base: seqnum=81 distance=63.9595814165 metersThe misson vehicle 2 received a message of base: seqnum=81 distance=67.0821624203 meters
+
+Ground Control Station sended seqnum=83 messages
+The misson vehicle 3 received a message of base: seqnum=82 distance=64.2261866074 meters
+The misson vehicle 2 received a message of base: seqnum=82 distance=67.0178929935 meters
+Ground Control Station sended seqnum=84 messages
+The misson vehicle 3 received a message of base: seqnum=83 distance=64.2644118283 meters
+The misson vehicle 2 received a message of base: seqnum=83 distance=66.8974968247 meters
+Ground Control Station sended seqnum=85 messages
+The misson vehicle 3 received a message of base: seqnum=84 distance=64.1925033301 meters
+The misson vehicle 2 received a message of base: seqnum=84 distance=66.7276123023 meters
+Ground Control Station sended seqnum=86 messages
+The misson vehicle 3 received a message of base: seqnum=85 distance=64.0585226313 meters
+The misson vehicle 2 received a message of base: seqnum=85 distance=66.54505224 meters
+Ground Control Station sended seqnum=87 messages
+The misson vehicle 2 received a message of base: seqnum=86 distance=66.319058096 meters
+The misson vehicle 3 received a message of base: seqnum=86 distance=63.8777636199 meters
+Ground Control Station sended seqnum=88 messages
+The misson vehicle 3 received a message of base: seqnum=87 distance=63.6659733605 meters
+The misson vehicle 2 received a message of base: seqnum=87 distance=66.0776949085 meters
+Ground Control Station sended seqnum=89 messages
+The misson vehicle 2 received a message of base: seqnum=88 distance=65.7901682523 meters
+The misson vehicle 3 received a message of base: seqnum=88 distance=63.4222763109 meters
+Ground Control Station sended seqnum=90 messages
+The misson vehicle 3 received a message of base: seqnum=89 distance=63.1471096172 meters
+The misson vehicle 2 received a message of base: seqnum=89 distance=65.471861491 meters
+Ground Control Station sended seqnum=91 messages
+The misson vehicle 3 received a message of base: seqnum=90 distance=62.8481159506 metersThe misson vehicle 2 received a message of base: seqnum=90 distance=65.128824165 meters
+
+Ground Control Station sended seqnum=92 messages
+The misson vehicle 3 received a message of base: seqnum=91 distance=62.3521914494 meters
+The misson vehicle 2 received a message of base: seqnum=91 distance=64.5449929139 meters
+Ground Control Station sended seqnum=93 messages
+The misson vehicle 3 received a message of base: seqnum=92 distance=61.9664223838 metersThe misson vehicle 2 received a message of base: seqnum=92 distance=64.1217037033 meters
+
+Ground Control Station sended seqnum=94 messages
+The misson vehicle 3 received a message of base: seqnum=93 distance=61.5721075555 metersThe misson vehicle 2 received a message of base: seqnum=93 distance=63.6368240117 meters
+
+Ground Control Station sended seqnum=95 messages
+The misson vehicle 3 received a message of base: seqnum=94 distance=61.1229434535 meters
+The misson vehicle 2 received a message of base: seqnum=94 distance=63.1272116036 meters
+Ground Control Station sended seqnum=96 messages
+The misson vehicle 3 received a message of base: seqnum=95 distance=60.6423078702 metersThe misson vehicle 2 received a message of base: seqnum=95 distance=62.5835357894 meters
+
+Ground Control Station sended seqnum=97 messages
+The misson vehicle 3 received a message of base: seqnum=96 distance=60.1302004039 meters
+The misson vehicle 2 received a message of base: seqnum=96 distance=62.0090633982 meters
+Ground Control Station sended seqnum=98 messages
+The misson vehicle 3 received a message of base: seqnum=97 distance=59.5785333526 meters
+The misson vehicle 2 received a message of base: seqnum=97 distance=61.400534467 meters
+Ground Control Station sended seqnum=99 messages
+The misson vehicle 3 received a message of base: seqnum=98 distance=59.0030493834 meters
+The misson vehicle 2 received a message of base: seqnum=98 distance=60.7612066811 meters
+Ground Control Station sended seqnum=100 messages
+The misson vehicle 3 received a message of base: seqnum=99 distance=58.3807898228 meters
+The misson vehicle 2 received a message of base: seqnum=99 distance=60.0939130534 meters
+Ground Control Station sended seqnum=101 messages
+The misson vehicle 3 received a message of base: seqnum=100 distance=57.7347122546 meters
+The misson vehicle 2 received a message of base: seqnum=100 distance=59.3990598249 meters
+Ground Control Station sended seqnum=102 messages
+The misson vehicle 3 received a message of base: seqnum=101 distance=57.0648220271 meters
+The misson vehicle 2 received a message of base: seqnum=101 distance=58.6794830187 meters
+Ground Control Station sended seqnum=103 messages
+The misson vehicle 3 received a message of base: seqnum=102 distance=56.3715408161 meters
+The misson vehicle 2 received a message of base: seqnum=102 distance=57.9319619493 meters
+Ground Control Station sended seqnum=104 messages
+The misson vehicle 3 received a message of base: seqnum=103 distance=55.2682663044 meters
+The misson vehicle 2 received a message of base: seqnum=103 distance=56.7827981031 meters
+Ground Control Station sended seqnum=105 messages
+The misson vehicle 3 received a message of base: seqnum=104 distance=54.512045262 meters
+The misson vehicle 2 received a message of base: seqnum=104 distance=55.9859100587 meters
+Ground Control Station sended seqnum=106 messages
+The misson vehicle 3 received a message of base: seqnum=105 distance=53.7166823125 meters
+The misson vehicle 2 received a message of base: seqnum=105 distance=55.1582191421 meters
+Ground Control Station sended seqnum=107 messages
+The misson vehicle 3 received a message of base: seqnum=106 distance=52.9136514609 meters
+The misson vehicle 2 received a message of base: seqnum=106 distance=54.318305253 meters
+Ground Control Station sended seqnum=108 messages
+The misson vehicle 3 received a message of base: seqnum=107 distance=52.0864130833 meters
+The misson vehicle 2 received a message of base: seqnum=107 distance=53.4475571478 meters
+Ground Control Station sended seqnum=109 messages
+The misson vehicle 3 received a message of base: seqnum=108 distance=51.2353788418 meters
+The misson vehicle 2 received a message of base: seqnum=108 distance=52.5520978845 meters
+Ground Control Station sended seqnum=110 messages
+The misson vehicle 3 received a message of base: seqnum=109 distance=50.3682407696 meters
+The misson vehicle 2 received a message of base: seqnum=109 distance=51.6289628209 meters
+Ground Control Station sended seqnum=111 messages
+The misson vehicle 3 received a message of base: seqnum=110 distance=49.4934509134 meters
+The misson vehicle 2 received a message of base: seqnum=110 distance=50.6811130424 meters
+Ground Control Station sended seqnum=112 messages
+The misson vehicle 3 received a message of base: seqnum=111 distance=48.5711165587 meters
+The misson vehicle 2 received a message of base: seqnum=111 distance=49.7053846148 meters
+Ground Control Station sended seqnum=113 messages
+The misson vehicle 3 received a message of base: seqnum=112 distance=47.6327646429 meters
+The misson vehicle 2 received a message of base: seqnum=112 distance=48.704949028 meters
+Ground Control Station sended seqnum=114 messages
+The misson vehicle 3 received a message of base: seqnum=113 distance=46.6553105886 meters
+The misson vehicle 2 received a message of base: seqnum=113 distance=47.6828083076 meters
+Ground Control Station sended seqnum=115 messages
+The misson vehicle 3 received a message of base: seqnum=114 distance=45.6621923699 meters
+The misson vehicle 2 received a message of base: seqnum=114 distance=46.632986194 meters
+Ground Control Station sended seqnum=116 messages
+The misson vehicle 3 received a message of base: seqnum=115 distance=44.1099624309 meters
+The misson vehicle 2 received a message of base: seqnum=115 distance=45.030467366 meters
+Ground Control Station sended seqnum=117 messages
+The misson vehicle 3 received a message of base: seqnum=116 distance=43.0465611952 meters
+The misson vehicle 2 received a message of base: seqnum=116 distance=43.9312981937 meters
+Ground Control Station sended seqnum=118 messages
+The misson vehicle 3 received a message of base: seqnum=117 distance=41.9594664452 meters
+The misson vehicle 2 received a message of base: seqnum=117 distance=42.8259832278 meters
+Ground Control Station sended seqnum=119 messages
+The misson vehicle 3 received a message of base: seqnum=118 distance=40.8644483945 meters
+The misson vehicle 2 received a message of base: seqnum=118 distance=41.7114285337 meters
+Ground Control Station sended seqnum=120 messages
+The misson vehicle 3 received a message of base: seqnum=119 distance=39.7537661072 meters
+The misson vehicle 2 received a message of base: seqnum=119 distance=40.5876514841 meters
+Ground Control Station sended seqnum=121 messages
+The misson vehicle 3 received a message of base: seqnum=120 distance=38.6274253903 meters
+The misson vehicle 2 received a message of base: seqnum=120 distance=39.4484723281 meters
+Ground Control Station sended seqnum=122 messages
+The misson vehicle 3 received a message of base: seqnum=121 distance=37.4932355464 meters
+The misson vehicle 2 received a message of base: seqnum=121 distance=38.3185731825 meters
+Ground Control Station sended seqnum=123 messages
+The misson vehicle 3 received a message of base: seqnum=122 distance=36.3670976043 meters
+The misson vehicle 2 received a message of base: seqnum=122 distance=37.1702411597 meters
+Ground Control Station sended seqnum=124 messages
+The misson vehicle 3 received a message of base: seqnum=123 distance=35.2174153553 meters
+The misson vehicle 2 received a message of base: seqnum=123 distance=36.0219736556 meters
+Ground Control Station sended seqnum=125 messages
+The misson vehicle 3 received a message of base: seqnum=124 distance=34.0679321318 meters
+The misson vehicle 2 received a message of base: seqnum=124 distance=34.873777043 meters
+Ground Control Station sended seqnum=126 messages
+The misson vehicle 3 received a message of base: seqnum=125 distance=32.9185520864 meters
+The misson vehicle 2 received a message of base: seqnum=125 distance=33.7256585625 meters
+Ground Control Station sended seqnum=127 messages
+The misson vehicle 3 received a message of base: seqnum=126 distance=31.7614198166 meters
+The misson vehicle 2 received a message of base: seqnum=126 distance=32.5684331807 meters
+Ground Control Station sended seqnum=128 messages
+The misson vehicle 2 received a message of base: seqnum=127 distance=30.8311066787 meters
+The misson vehicle 3 received a message of base: seqnum=127 distance=30.0299841699 meters
+Ground Control Station sended seqnum=129 messages
+The misson vehicle 3 received a message of base: seqnum=128 distance=28.8653781756 meters
+The misson vehicle 2 received a message of base: seqnum=128 distance=29.6741791793 meters
+Ground Control Station sended seqnum=130 messages
+The misson vehicle 3 received a message of base: seqnum=129 distance=27.7166889358 meters
+The misson vehicle 2 received a message of base: seqnum=129 distance=28.5174074854 meters
+Ground Control Station sended seqnum=131 messages
+The misson vehicle 2 received a message of base: seqnum=130 distance=27.3608113592 metersThe misson vehicle 3 received a message of base: seqnum=130 distance=26.544488992 meters
+
+Ground Control Station sended seqnum=132 messages
+The misson vehicle 3 received a message of base: seqnum=131 distance=25.3884443717 meters
+The misson vehicle 2 received a message of base: seqnum=131 distance=26.2044140479 meters
+Ground Control Station sended seqnum=133 messages
+The misson vehicle 3 received a message of base: seqnum=132 distance=24.2404313935 meters
+The misson vehicle 2 received a message of base: seqnum=132 distance=25.0418231872 meters
+Ground Control Station sended seqnum=134 messages
+The misson vehicle 2 received a message of base: seqnum=133 distance=23.8858809121 meters
+The misson vehicle 3 received a message of base: seqnum=133 distance=23.0769726835 meters
+Ground Control Station sended seqnum=135 messages
+The misson vehicle 3 received a message of base: seqnum=134 distance=21.9138564314 meters
+The misson vehicle 2 received a message of base: seqnum=134 distance=22.7211853263 meters
+Ground Control Station sended seqnum=136 messages
+The misson vehicle 3 received a message of base: seqnum=135 distance=20.7511402235 meters
+The misson vehicle 2 received a message of base: seqnum=135 distance=21.5503655522 meters
+Ground Control Station sended seqnum=137 messages
+The misson vehicle 3 received a message of base: seqnum=136 distance=19.5888952931 meters
+The misson vehicle 2 received a message of base: seqnum=136 distance=20.3799282421 meters
+Ground Control Station sended seqnum=138 messages
+The misson vehicle 3 received a message of base: seqnum=137 distance=18.4272108159 meters
+The misson vehicle 2 received a message of base: seqnum=137 distance=19.2255093306 meters
+Ground Control Station sended seqnum=139 messages
+The misson vehicle 3 received a message of base: seqnum=138 distance=17.2744407848 meters
+The misson vehicle 2 received a message of base: seqnum=138 distance=18.0560778044 meters
+Ground Control Station sended seqnum=140 messages
+The misson vehicle 3 received a message of base: seqnum=139 distance=15.5429331152 meters
+The misson vehicle 2 received a message of base: seqnum=139 distance=16.2930872494 meters
+Ground Control Station sended seqnum=141 messages
+The misson vehicle 3 received a message of base: seqnum=140 distance=14.3928838379 meters
+The misson vehicle 2 received a message of base: seqnum=140 distance=15.1166675613 meters
+Ground Control Station sended seqnum=142 messages
+The misson vehicle 3 received a message of base: seqnum=141 distance=13.2274784 meters
+The misson vehicle 2 received a message of base: seqnum=141 distance=13.9640096626 meters
+Ground Control Station sended seqnum=143 messages
+The misson vehicle 3 received a message of base: seqnum=142 distance=12.0723367421 meters
+The misson vehicle 2 received a message of base: seqnum=142 distance=12.7834973 meters
+Ground Control Station sended seqnum=144 messages
+The misson vehicle 3 received a message of base: seqnum=143 distance=10.9196485922 meters
+The misson vehicle 2 received a message of base: seqnum=143 distance=11.6204868589 meters
+Ground Control Station sended seqnum=145 messages
+The misson vehicle 3 received a message of base: seqnum=144 distance=9.77028237761 meters
+The misson vehicle 2 received a message of base: seqnum=144 distance=10.4515198378 meters
+Ground Control Station sended seqnum=146 messages
+The misson vehicle 3 received a message of base: seqnum=145 distance=8.61658952305 meters
+The misson vehicle 2 received a message of base: seqnum=145 distance=9.29371164953 meters
+Ground Control Station sended seqnum=147 messages
+The misson vehicle 3 received a message of base: seqnum=146 distance=7.48763291151 meters
+The misson vehicle 2 received a message of base: seqnum=146 distance=8.13443967045 meters
+Ground Control Station sended seqnum=148 messages
+The misson vehicle 3 received a message of base: seqnum=147 distance=6.35424733431 meters
+The misson vehicle 2 received a message of base: seqnum=147 distance=6.96647534713 meters
+Ground Control Station sended seqnum=149 messages
+The misson vehicle 3 received a message of base: seqnum=148 distance=5.24448364136 meters
+The misson vehicle 2 received a message of base: seqnum=148 distance=5.82686076337 meters
+Ground Control Station sended seqnum=150 messages
+The misson vehicle 2 received a message of base: seqnum=149 distance=4.70018823958 meters
+The misson vehicle 3 received a message of base: seqnum=149 distance=4.17620263657 meters
+Ground Control Station sended seqnum=151 messages
+The misson vehicle 3 received a message of base: seqnum=150 distance=3.20207595718 meters
+The misson vehicle 2 received a message of base: seqnum=150 distance=3.6235480473 meters
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket[1;32m[Msg] [0m[1;32mWaiting for master.[0m[1;32m
+[0m[1;32m[0m[1;32m[Msg] [0m[1;32mConnected to gazebo master @ [0m[1;32mhttp://127.0.0.1:1235[0m[1;32m
+[0m[1;32m[0m[1;32m[Msg] [0m[1;32mPublicized address: [0m[1;32m169.254.9.139[0m[1;32m
+[0m[1;32m[0m
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+Connection reset or closed by peer on TCP socketEOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+[1;32m[Msg] [0m[1;32mWaiting for master.[0m[1;32m
+[0m[1;32m[0m[1;32m[Msg] [0m[1;32mConnected to gazebo master @ [0m[1;32mhttp://127.0.0.1:1235[0m[1;32m
+[0m[1;32m[0m[1;32m[Msg] [0m[1;32mPublicized address: [0m[1;32m169.254.9.139[0m[1;32m
+[0m[1;32m[0mEOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+[1;36m[0mEOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+[1;32m[0mEOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
+EOF on TCP socket
